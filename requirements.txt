@@ -1,0 +1,6 @@
+flask
+numpy
+opencv-python
+tensorflow
+python-dotenv
+Flask-SQLAlchemy
